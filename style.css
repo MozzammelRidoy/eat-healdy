@@ -1,1 +1,44 @@
-    
+body{
+    font-family: 'Ubuntu', sans-serif;
+} 
+.section1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+.diet-text{
+    margin-left: 90px;
+}
+.diet-text-h1{
+font-size: 50px;
+
+
+
+}
+.org-color{
+    color: orange;
+}
+.diet-pera{
+margin-bottom: 60px;
+text-align: justify;
+}
+.order-button{
+text-align: center;
+border: 0 solid orange;
+border-radius: 50px;
+text-decoration: none;
+background-color: orange;
+color: white;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-top: 300px;
+box-shadow: 1px 1px 10px orange;
+}
+.men-img img{
+width: 75%;
+padding-left: 2px;
+
+
+}
