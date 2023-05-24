@@ -42,3 +42,100 @@ padding-left: 2px;
 
 
 }
+.women-img img{
+    width: 100%;
+    padding-left: 200px;
+    justify-items: end;
+   
+    
+    }
+.section2{
+background-image: url(7.png);
+margin-top: 20px;
+height: 400px;
+margin-bottom: 50px;
+    
+}
+.women-pic{
+
+}
+.about-text{
+margin-right: 70px;
+padding-left: 400px;
+
+}
+.about-h1{
+font-size: 40px;
+text-align:left;
+}
+.about-pera{
+margin-bottom: 60px;
+text-align: left;
+
+}
+.contac-me-button{
+
+}
+.section3{
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.recipe-about{
+    padding-left: 25%;
+    padding-right: 25%;
+   
+}
+.gray-clr{
+    color: gray;
+}
+.food1-img{
+    width: 90%;
+   padding: 20px;
+}
+.food2-img{
+    width: 90%;
+    padding: 20px;
+}
+.food1{
+    box-shadow: 5px 5px 10px;
+    border-radius: 20px;
+    padding-right: 30px;
+    margin-left: 15%;
+    width: 40%;
+    text-align: left;
+}
+.food2{
+    margin-right: 15%;
+    box-shadow: 5px 5px 10px;
+    border-radius: 20px;
+    padding-left: 30px;
+    width: 40%;
+    text-align: left;
+}
+.section4{
+
+display: flex;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 40px;
+    margin-top: 20px;
+}
+.orrange-clr{
+    color: orange;
+
+}
+.gray-clr{
+    color: darkgrey;
+}
+.footer-h4{
+    color: wheat;
+}
+.food1-pera{
+    padding-left: 20px;
+}
+.food1-h1{
+    padding-left: 20px;
+}
